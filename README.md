@@ -1,6 +1,6 @@
 # movie_store
 
-A new Flutter project.
+A new movie suggestion Flutter project.
 
 ## Getting Started
 
